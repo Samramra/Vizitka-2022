@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+  }
+
+  html {
+    min-height: 100vh;
+    margin-top: 20px;
+  }
+  
+  .sousosi {
+    border-radius: 10px;
+  }
+
+  h1 {
+    font-family: 'Rubik', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+  }
+
+  .sarka {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2em;
+    padding-top: 1.7em;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 40em;
+    margin-left: 37em;
+    background-color: rgb(243, 207, 214);
+  }
+
+  .kdoJsem {
+    font-size: 1.4em;
+    margin-top: 0.2em;
+    margin-bottom: 0.3em;
+  }
+
+ 	ul,
+	ol {
+		list-style-type: none;
+  }
+
+  ol {
+    margin-top: 0.3em;
+    font-size: 1.3em;
+    line-height: 1.5em;
+    text-align: center;
+    padding-left: 0;
+  }
+
+  ul {
+    line-height: 0.5em;
+  }
+
+  .svg {
+    width: 0.7em;
+    height: 0.7em;
+  }
+
+  a {
+    margin-left: 0.4em;
+  }
+
+  .odkaz {
+    text-align: center;
+    padding-right: 4em;
+    padding-left: 4em;
+  }
+
